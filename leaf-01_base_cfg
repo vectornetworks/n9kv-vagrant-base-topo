@@ -1,0 +1,13 @@
+feature nxapi
+hostname n9kv-leaf-01
+
+vrf context oob-mgmt 
+
+nxapi http port 80
+nxapi use-vrf oob-mgmt
+
+interface Ethernet1/4 
+  no switchport 
+  vrf member oob-mgmt 
+  ip address 172.16.2.21/24 
+  no shutdown

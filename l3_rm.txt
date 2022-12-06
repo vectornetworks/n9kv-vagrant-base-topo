@@ -1,0 +1,3 @@
+route-map NEXT-HOP-UNCHANGED permit 10
+  set ip next-hop unchanged
+  set extcommunity evpn rmac 0200.3737.3737
