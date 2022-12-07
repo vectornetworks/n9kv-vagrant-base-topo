@@ -19,7 +19,7 @@ Getting the topology online initially should be as easy as cloning this reposito
 
 ## Topology Drawing
 
-![N9Kv vagrant topo](N9Kv Vagrant Topology.png)
+![N9Kv vagrant topo](n9kv_vagrant_topo.png)
 
 
 
