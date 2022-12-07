@@ -17,5 +17,10 @@ The box name in the Vagrantfile is ```n9kv-v10-3``` so if you name it something 
 
 Getting the topology online initially should be as easy as cloning this repository and doing a ```vagrant up```. 
 
+## Topology Drawing
+
+![N9Kv vagrant topo](N9Kv Vagrant Topology.png)
+
+
 
 
